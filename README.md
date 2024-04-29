@@ -13,7 +13,7 @@ I'm a developer (no surprises there), who enjoys crafting code, solving puzzles,
 
 ## My Tech Stack
 
-- 🔧 Languages: Java, Python, Dart, Typescript, Go.
+- 🔧 Languages: kotlin, python, dart, typescript, go.
 - 📚 Currently diving deep into: NP Completeness, AI/ML.
 
 ## My Craft
