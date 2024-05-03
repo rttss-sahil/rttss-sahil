@@ -3,13 +3,13 @@
 # Greetings !
 
 Step into my quantum realm of the digital cosmos, where every bit and byte exists in a superposition of states, awaiting observation!
-I'm a developer (no surprises there), who enjoys crafting code, solving puzzles, and occasionally breaking things (oops!). Here's a little taste of what you'll find browsing my repositories:
+I'm a developer (no surprises there), who enjoys crafting code, solving puzzles, and occasionally breaking things (oops!).
 
 ## About Me
 
 - 🧙‍♂️ Aspiring physicist turned tech enthusiast.
 - 💻 Constantly typing away at my keyboard, fueled by coffee and the occasional chocolate chip cookie.
-- 🎨 Turning ideas into code and bugs into features (mostly!) since 2019.
+- 🎨 Turning ideas into code and bugs into features (mostly!) since 2021.
 
 ## My Tech Stack
 
