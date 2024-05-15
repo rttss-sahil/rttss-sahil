@@ -27,6 +27,6 @@ These projects thrives on collaborations. Whether you have suggestions for impro
 
 ## Let's Connect 🚀
 
-Feel free to reach out if you want to chat about coding, or debate the best programming language. You can shoot me an email at [sahil.rathee@infortts.com].
+Feel free to reach out if you want to chat about coding, or debate the best programming language. You can shoot me an email at [sahil.git@outlook.com].
 
 Thanks for stopping by! Now, go forth and code with reckless abandon (but maybe also a little bit of caution).
