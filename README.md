@@ -1,11 +1,11 @@
-# Sahil Rathee | Senior Software Engineer
+# Sahil Rathee | Code Janitor & Physics Enthusiast
 
-> **Physics background turned High-Performance Systems Specialist.**  
-> Focused on building low-latency backends, cross-platform mobile ecosystems, and automated infrastructure.
+> **Physicist turned High-Performance Systems Specialist.**  
+> Lowering system entropy one PR at a time. I understand gravity, which is why I know how fast things should fall (specifically, my prod servers if I'm not careful).
 
 ---
 
-### 🛠 Technical Arsenal
+### 🛠 The Technical Toolkit (Low-key cracked)
 
 #### **Languages & Core**
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) 
@@ -22,7 +22,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 
-#### **DevOps & Infrastructure**
+#### **DevOps & Infrastructure (Keeping things mid-stable)**
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white)
@@ -30,19 +30,19 @@
 
 ---
 
-### 🚀 Specialized Focus
+### 🚀 What I'm Cooking
 
-*   **Low-Latency Systems:** Architecting high-performance backends in Rust (e.g., Sentiment analysis engines, Market data processing).
-*   **Vector Search & RAG:** Implementing community-driven intelligence using Vector Databases and LLM orchestration.
-*   **Infrastructure Automation:** Standardizing CI/CD pipelines (Fastlane/GitHub Actions) for large-scale mobile deployments.
-*   **Nexus Architectures:** Consolidating microservices into unified, resource-optimized cores.
-
----
-
-### 📫 Connect with me
-- **Email:** [sahil.git@outlook.com](mailto:sahil.git@outlook.com)
-- **Collaboration:** Always open to projects involving NP Completeness, AI/ML, and High-Performance computing.
+*   **Rust & Low-Latency:** Building sentiment engines in Rust because life is too short for slow binaries and memory leaks.
+*   **Vector Search & RAG:** Basically just high-stakes dot products and LLM vibes. Implementing community-driven intelligence.
+*   **Infrastructure Magic:** Orchestrating CI/CD (Fastlane/GHA) so high it quantum tunnels past the bugs (usually).
+*   **Nexus Consolidation:** Aggregating microservices because context switching is the enemy of joy.
 
 ---
 
-*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." - Brian Kernighan*
+### 📫 Hit my line
+- **Email:** [sahil.artits.rathee@gmail.com](mailto:sahil.artits.rathee@gmail.com)
+- **Vibe:** Open for projects involving NP-Completeness, AI/ML, and why the cat is both dead and alive in the server room.
+
+---
+
+*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." - Brian Kernighan (Fr fr)*
