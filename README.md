@@ -1,54 +1,65 @@
-# Sahil Rathee | Distributed Systems & Physics Enthusiast
+# [ ACCESS GRANTED ] SAHIL_RATHEE_V.4.2
 
-> **Physicist turned Architect for High-Scale Systems.**  
-> Lowering system entropy one million-user session at a time. I understand gravity, which is why I know how to keep systems from collapsing under their own weight.
+```bash
+[ SYSTEM_STATUS ]: STABLE
+[ UPTIME        ]: 24 YEARS
+[ ROLE          ]: DISTRIBUTED_SYSTEMS_ARCHITECT
+[ ENERGY        ]: CAFFEINE_DEPENDENT
+[ ENTROPY       ]: MANAGED
+```
 
----
-
-### 🌌 The "Dark Matter" Codebase
-Most of my core work is **proprietary**—it doesn't interact with the GitHub public cloud, but it's the gravitational force holding together systems with **millions of downloads** and **real-time event streams**. 
-
-If you're looking for my track record on building scalable, mission-critical infrastructure, the [resume.pdf](./resume.pdf) is the source of truth.
-
----
-
-### 🛠 The Technical Toolkit (Hardcore Scale Edition)
-
-#### **Languages & Core**
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-#### **Infrastructure & DevOps (The Heavy Lifters)**
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![Helm](https://img.shields.io/badge/helm-%230F1682.svg?style=flat-square&logo=helm&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat-square&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
-#### **Security & Networking (The Night Shift)**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557CF2.svg?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%234DABCF.svg?style=flat-square&logo=nmap&logoColor=white)
+> **Physicist turned Architect for High-Scale Simulations.**  
+> Scaling systems to millions of users is just another form of thermodynamics. Lowering entropy in private VPCs while the public cloud sleeps.
 
 ---
 
-### 🚀 Core Competencies
+### 🌌 SYSTEM_BLUEPRINT (The "Dark Matter" Logic)
+Most of my core modules are **proprietary**—they don't interact with the public GitHub cloud. They are the gravitational force holding together private architectures with **millions of active sessions** and **real-time event streams**.
 
-*   **Scalable Distributed Systems:** Architecting backends that handle millions of requests without breaking a sweat (or a circuit breaker).
-*   **Infrastructure as Code (IaC):** Orchestrating clusters with **Kubernetes**, Helm, and Terraform.
-*   **White Hat Hacking:** Ethical penetration testing and network security—finding the cracks before the entropy does.
-*   **Networking:** Deep dive into packet physics and low-level protocol optimization.
+For the full mission history and high-clearance details, access the [system_resume.pdf](./resume.pdf).
 
 ---
 
-### 📫 Reach out
-- **Email:** [sahil.artits.rathee@gmail.com](mailto:sahil.artits.rathee@gmail.com)
-- **Vibe:** Always down for projects involving NP-Completeness, AI/ML, and why the universe is low-key simulation.
+### 🛠️ CORE_MODULES (The Toolkit)
+
+#### **[ ORCHESTRATORS ]**
+- **AI_MANAGEMENT**: Multi-agent RAG, Jarvis-like autonomous systems, LLM orchestration.
+- **GO_ENGINE**: High-performance, ns-latency core services.
+- **DART_MOBILE**: Cross-platform ecosystem synchronization (Flutter).
+
+#### **[ TERRAFORMING_ENGINE ]**
+- **KUBERNETES**: Multi-region cluster orchestration.
+- **IAC_STACK**: Terraform, Helm, Ansible (Provisioning galaxies of nodes).
+- **MONITORING**: Sentry, Prometheus, Firebase Analytics.
 
 ---
 
-*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." - Brian Kernighan (Fr fr)*
+### 🚀 OPERATIONAL_LOGS (Recent Simulations)
+
+- **[ SUCCESS ]**: Scaled a proprietary fitness ecosystem to **100k+ downloads** with zero-drift IaC.
+- **[ SUCCESS ]**: Architected a Go-based autonomous intelligence core for multi-agent task execution.
+- **[ SUCCESS ]**: Optimized a HFT-like trading platform for ns-latency real-time event processing.
+- **[ SUCCESS ]**: Consolidated fragmented microservices into a resource-optimized "Nexus" core.
+
+---
+
+### 🌙 NIGHT_FORTE_OVERRIDE (The Side-Quests)
+*When the public cloud is quiet, the security sensors go off.*
+
+```bash
+[ SESSION_TYPE ]: WHITE_HAT_HACKING
+[ TOOLKIT      ]: KALI_LINUX / WIRESHARK / NMAP
+[ GOAL         ]: Finding the cracks before the entropy does.
+```
+
+---
+
+### 📫 CONNECT_PROMPT
+```bash
+sahil@orbit:~$ cd ~/contact
+sahil@orbit:~/contact$ mail sahil.artits.rathee@gmail.com
+```
+
+---
+
+*"Debugging is twice as hard as writing the code in the first place... Fr fr."*
