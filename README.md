@@ -23,26 +23,25 @@ If you're looking for my track record on building scalable, mission-critical inf
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 #### **Infrastructure & DevOps (The Heavy Lifters)**
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-%230F1682.svg?style=flat-square&logo=helm&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-#### **Frameworks & Monitoring**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white)
+#### **Security & Networking (The Night Shift)**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557CF2.svg?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%234DABCF.svg?style=flat-square&logo=nmap&logoColor=white)
 
 ---
 
 ### 🚀 Core Competencies
 
 *   **Scalable Distributed Systems:** Architecting backends that handle millions of requests without breaking a sweat (or a circuit breaker).
-*   **Real-time Event Processing:** Managing high-throughput data streams where every microsecond matters.
-*   **Infrastructure as Code (IaC):** Spinning up entire galaxies of servers with a single `terraform apply`.
-*   **High-Performance Architectures:** Building ns-latency systems that outrun Schödinger's cat.
+*   **Infrastructure as Code (IaC):** Orchestrating clusters with **Kubernetes**, Helm, and Terraform.
+*   **White Hat Hacking:** Ethical penetration testing and network security—finding the cracks before the entropy does.
+*   **Networking:** Deep dive into packet physics and low-level protocol optimization.
 
 ---
 

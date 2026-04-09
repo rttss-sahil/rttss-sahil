@@ -1,0 +1,73 @@
+Sahil Rathee
+(+91) 9992396866 | Sahil Artits Rathee | Linkedin | Github | Leetcode
+
+With a strong passion for software development and an immersive background as a gamer, I specialise in backend development and cloud services. My expertise lies in leveraging a tenacious problem-solving mindset to tackle complex challenges and optimise solutions. I excel in working with servers, manipulating data, and enhancing cloud infrastructure. Dedicated to creating innovative solutions, I am deeply invested in integrating cutting-edge technologies with creative problem-solving. My goal is to contribute to a dynamic team culture and drive innovation in the software development landscape.
+
+Education
+DDUC, University of Delhi
+Bachelor's Degree in Science (Major: Computer Science)
+2018 – 2021
+
+Core Skills
+- Languages: TypeScript, Python, Dart, Kotlin, GraphQL, Gremlin
+- Frameworks: React Native, Flutter, Cocos Creator Engine, Angular, Node.js
+- Tools: Git, AWS, GCP, Kubernetes, Docker, RabbitMQ, CI/CD, Microservice Arch., Serverless Computing
+- Databases: MySQL, Redis, MongoDB, Neptune, PostgresQL
+- Soft: Adaptability, Problem-Solving, Collaboration Ninja
+
+Relevant Experience
+
+Software Engineer | GymWise India Private Limited [Mar 2024 -Dec 2025]
+
+- Architected and led the development of scalable cloud infrastructure and software systems, driving technical strategy and implementation.
+- Spearheaded the design and implementation of container orchestration solutions, optimizing system performance and reliability.
+- Developed and executed IT business strategies aligned with organizational goals, enhancing operational efficiency.
+- Designed and implemented robust software infrastructure, ensuring high availability and scalability of services.
+- Led organizational development initiatives, fostering a culture of technical excellence and innovation.
+- Designed and optimized information systems architecture, improving data flow and system integration.
+
+
+Technologies: Cloud Infrastructure, IaC, Container Orchestration, System Architecture, Vibe Coding
+Tools: AWS, Google Play Console, Flutter, Golang
+
+Full Stack Engineer | Bighit [Nov 2022 -Mar 2024]
+
+- Spearheaded the redevelopment of tech infrastructure, including a React Native application and cloud infrastructure(AWS IaC), resulting in a ~80% reduction in application size and a ~60% increase in server efficiency and architecture availability.
+- Designed and developed interactive features, including advanced location tracking, dynamic chat module, and efficient push notifications, significantly boosting user engagement and enhancing our product’s user engagement.
+- Played a pivotal leadership role in managing the development team, involving task delegation, creating effective project roadmaps, facilitating onboarding and continuous training, and ensuring team alignment with company goals and project objectives.
+- Responsible for optimising and integrating AWS services like Amazon Neptune for database needs, managing clusters like OpenSearch, Cache, Kafka, and implementing efficient data synchronisation.
+- Managed and optimised servers, reducing API latency by about 80%, database queries, and refined analytical data from logs and user tracking services, to forward the business in enhanced decision making and user satisfaction.
+- Actively collaborated with cross-functional teams, including product leads, UI/UX designers, business development teams, and top executive leadership, gathering and refining requirements, providing valuable feedback on feature implementation, and ensuring clear communication and alignment between technical and non-technical stakeholders.
+
+Technologies: Typescript, React Native, GraphQL, Node.js, AWS Neptune, OpenSearch
+Tools: Docker, Kubernetes, AWS, GCP, Google Domains, CI/CD
+
+Full Stack Developer | Gamix Labs [Mar 2022 - Oct 2022]
+
+- Collaborated closely with the clients like OneFC, Bombay Play teams to craft online gaming websites(PWA) + HTML5 Games, featuring in-browser responsive games akin to Prodigy Rises.
+- Successfully deployed Facebook instant games for Vegas Slot Machines, utilising the Cocos Creator Game Engine. Additionally, developed Admin dashboards for streamlined management and data analysis.
+- Configured performance-oriented Node.js gaming servers with data-streaming services for event streaming, implementing a caching-first strategy enhancing user experience and accelerating server performance and throughput while working with MongoDB and Redis.
+- Led the development and rollout of a facial/voice recognition web+native app, to provide secure user verification across online interview platforms authentication.
+- Adopted TDD (Test-Driven Development) to enhance software development processes, leading to increased developer confidence, faster feedback loops, and a more reliable codebase.
+
+Technologies: Typescript, Flutter / Dart, Java, Kotlin, Restful APIs, Redis, RabbitMQ
+Tools: Angular, Cocos Creator Engine, GCP, Istanbul, Swagger
+
+Part-Time/Freelance Experience
+
+- Before transitioning to full-time roles, I collaborated with various clients, developing and enhancing their products, while continuously honing my skills and learning from diverse challenges and environments. 
+- Startups: 
+- OrealFit: Contributed to the development of an e-commerce platform specialising in health and nutrition products, focusing on improving UX and optimising server performance.
+Tech: React.js, Typescript, Python(w Django), CDN, DNS management
+
+- Helfy: Worked on enhancing the e-commerce platform, implementing features to streamline the user interface and backend operations, ensuring a seamless shopping experience for customers.
+Tech: Wordpress, HTML5, SASS, DNS, Firebase
+
+… and others
+
+
+Hobbies and Interests
+
+- Competitive gaming, particularly in strategy and problem-solving games.
+- Participating in coding challenges on LeetCode to continuously improve my problem-solving skills.
+
