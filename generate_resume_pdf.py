@@ -73,16 +73,16 @@ with open('_resume.txt', 'r') as f:
 education_idx = -1
 skills_idx = -1
 experience_idx = -1
-hobbies_idx = -1
+personal_spec_idx = -1
 
 for i, line in enumerate(lines):
     if 'Education' in line: education_idx = i
     if 'Core Skills' in line: skills_idx = i
     if 'Relevant Experience' in line: experience_idx = i
-    if 'Hobbies' in line: hobbies_idx = i
+    if 'Personal Specializations' in line: personal_spec_idx = i
 
 # Intro
-first_section_idx = min(idx for idx in [education_idx, skills_idx, experience_idx, hobbies_idx] if idx != -1)
+first_section_idx = min(idx for idx in [education_idx, skills_idx, experience_idx, personal_spec_idx] if idx != -1)
 info_lines = [line for line in lines[3:first_section_idx] if line.strip()]
 
 if info_lines:
@@ -91,7 +91,7 @@ if info_lines:
 # Core Skills
 if skills_idx != -1:
     pdf.chapter_title('CORE SKILLS')
-    end_idx = min(idx for idx in [experience_idx, education_idx, hobbies_idx] if idx > skills_idx)
+    end_idx = min(idx for idx in [experience_idx, education_idx, personal_spec_idx] if idx > skills_idx)
     for i in range(skills_idx + 1, end_idx):
         line = lines[i]
         if line.startswith('-'):
@@ -101,7 +101,7 @@ if skills_idx != -1:
 # Relevant Experience
 if experience_idx != -1:
     pdf.chapter_title('RELEVANT EXPERIENCE')
-    end_idx = min(idx for idx in [education_idx, hobbies_idx] if idx > experience_idx)
+    end_idx = min(idx for idx in [education_idx, personal_spec_idx] if idx > experience_idx)
     for i in range(experience_idx + 1, end_idx):
         line = lines[i]
         if '@' in line and 'from' in line:
@@ -126,11 +126,11 @@ if education_idx != -1:
     pdf.cell(0, 6, pdf.normalize_text(lines[education_idx+3]), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
     pdf.ln(5)
 
-# Hobbies
-if hobbies_idx != -1:
+# Personal Specializations
+if personal_spec_idx != -1:
     pdf.ln(5)
-    pdf.chapter_title('HOBBIES & INTERESTS')
-    for i in range(hobbies_idx + 1, len(lines)):
+    pdf.chapter_title('PERSONAL SPECIALIZATIONS')
+    for i in range(personal_spec_idx + 1, len(lines)):
         line = lines[i]
         if line.startswith('-'):
             pdf.bullet_point(line[1:].strip())
