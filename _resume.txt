@@ -44,5 +44,5 @@ Personal Specializations (Side Quests)
 - White Hat Security: Active practitioner in ethical hacking and network security using Kali Linux, Wireshark, and Nmap.
 - Competitive Gaming: Applying strategy and problem-solving mindsets from high-level gaming to complex system architectures.
 - Physics-Driven Engineering: Applying thermodynamic principles to manage system entropy and optimize resource distribution.
-ills.
+
 
