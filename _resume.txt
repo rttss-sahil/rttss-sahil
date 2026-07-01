@@ -2,12 +2,6 @@ Sahil Rathee
 (+91) 9992396866 | sahil.artits.rathee@gmail.com | Linkedin | Github | Leetcode
 
 Senior Software Engineer & Distributed Systems Architect with a background in Physics. Specialized in high-scale infrastructure (K8s/Terraform/Helm), AI Orchestration (Multi-agent RAG), and low-latency backends (Go). Proven track record of scaling proprietary systems to millions of users and 100k+ downloads. Tenacious problem-solver with a "White Hat" security mindset.
-
-Education
-DDUC, University of Delhi
-Bachelor's Degree in Science (Major: Computer Science)
-2018 – 2021
-
 Core Skills
 - Specialty: AI Orchestration, Multi-agent Management, Distributed Systems Architecture
 - Languages: Go (Primary), Python, Dart/Flutter, Kotlin, TypeScript, GraphQL
@@ -18,8 +12,22 @@ Core Skills
 
 Relevant Experience
 
+Lead Systems Architect & Founder @ Infortts from Jan 2026 to Present
+
+- Architected and built Cardiodictyon (Meeseeks), an autonomous multi-agent swarm orchestration and RAG-driven code generation layer using React (TS), Python, and Go.
+- Designed Chart-Forensics, a high-frequency trading intelligence engine utilizing Go, Python, NATS JetStream, and Qdrant vector databases for real-time signal analysis.
+- Engineered Care4u (HealthFlow), an event-driven serverless healthcare system with a Go backend and Flutter frontend, and Spark, a high-concurrency dating platform using a Go event monolith and Kafka.
+- Implemented C++ system-level components for audio synth composition driven by market signals (Ediacara) and Spotify recommendation models (Grypania).
+
+Lead Software Engineer & Monorepo Architect @ Orealfit from Jan 2026 to Present
+
+- Consolidated SuperOver (cricket app), Halftime (football app), and SportsEngine (C++ Drogon backend) into a unified monorepo architecture (Stadium), orchestrating local simulations with Docker Compose.
+- Built Khata, a billing and GST management system for Indian sellers, deploying serverless APIs directly to Cloudflare Pages/Workers using Next.js 14 and Drizzle ORM.
+- Managed tech infrastructure for Shadow Labs (e-commerce store with Hono/Node backend, Next.js, Prisma, PostgreSQL) and Roost (property management app with Go GraphQL backend, Flutter client).
+
 Software Engineer @ GymWise India Private Limited from Mar 2024 to Dec 2025
 
+- Google Play Store: https://play.google.com/store/apps/details?id=com.gymwise.android&hl=en_IN
 - Architected and led the development of cloud infrastructure for a fitness ecosystem with 100k+ downloads, ensuring zero-drift consistency via Terraform, Helm, and Ansible.
 - Pioneered the transition to AI Orchestration, implementing multi-agent RAG systems to manage complex user workflows and automated coaching modules.
 - Spearheaded the design of container orchestration solutions (K8s), optimizing system performance for high-concurrency real-time events.
@@ -28,6 +36,7 @@ Software Engineer @ GymWise India Private Limited from Mar 2024 to Dec 2025
 
 Full Stack Engineer @ Bighit from Nov 2022 to Mar 2024
 
+- Google Play Store: https://play.google.com/store/apps/details?id=com.agamtech.bighit.fans&hl=en_IN
 - Led the redevelopment of tech infrastructure for a major social/sports platform, achieving an 80% reduction in app size and 60% increase in server efficiency via AWS IaC.
 - Designed advanced location tracking and dynamic chat modules for high-engagement user bases.
 - Optimized AWS services including Amazon Neptune and OpenSearch clusters, managing real-time data synchronization for millions of events.
@@ -35,14 +44,17 @@ Full Stack Engineer @ Bighit from Nov 2022 to Mar 2024
 
 Full Stack Developer @ Gamix Labs from Mar 2022 to Oct 2022
 
+- DinoMonks: https://gamixlabs.com/dinomonks.html
+- Casino Royal: https://gamixlabs.com/casino-royal.html
+- The Prodigy Rises: https://gamixlabs.com/the-prodigy-rises.html
 - Developed high-performance gaming servers in Node.js with event-streaming services for real-time multiplayer interactions.
 - Deployed PWA gaming websites and HTML5 games with clients like OneFC and Bombay Play.
 - Adopted TDD and advanced facial/voice recognition for secure authentication platforms.
 
-Personal Specializations (Side Quests)
+Education
+DDUC, University of Delhi
+Bachelor's Degree in Science (Major: Computer Science)
+2018 – 2021
 
-- White Hat Security: Active practitioner in ethical hacking and network security using Kali Linux, Wireshark, and Nmap.
-- Competitive Gaming: Applying strategy and problem-solving mindsets from high-level gaming to complex system architectures.
-- Physics-Driven Engineering: Applying thermodynamic principles to manage system entropy and optimize resource distribution.
-
-
+Hobbies
+- Trading, Investment Consulting, Astrophysics, Theoretical Physics, Football
