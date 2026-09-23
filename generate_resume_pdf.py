@@ -1,11 +1,14 @@
 from fpdf import FPDF
 from fpdf.enums import XPos, YPos
 import os
+import sys
+import textwrap
+
 
 class ResumePDF(FPDF):
     def normalize_text(self, text):
         # Replace common unicode characters that Latin-1 can't handle
-        return text.replace('\u2013', '-').replace('\u2014', '--').replace('\u2019', "'").replace('\u2018', "'")
+        return text.replace('→', '->').replace('\u2013', '-').replace('\u2014', '--').replace('\u2019', "'").replace('\u2018', "'")
 
     def header(self):
         if self.page_no() == 1:
@@ -61,6 +64,94 @@ class ResumePDF(FPDF):
                 
         self.multi_cell(remaining_width, 5, text, link=link)
         self.set_x(self.l_margin)
+
+if len(sys.argv) > 1 and sys.argv[1] == '--print':
+    with open('_resume.txt', 'r') as f:
+        lines = [line.strip() for line in f.readlines()]
+    
+    # Simple console printer
+    print("=" * 80)
+    print("SAHIL RATHEE - RESUME".center(80))
+    print("=" * 80)
+    print()
+    
+    # Print header
+    if len(lines) > 0:
+        print(lines[0].upper().center(80))
+    if len(lines) > 1:
+        print(lines[1].center(80))
+    print()
+    
+    # Find sections
+    education_idx = -1
+    skills_idx = -1
+    experience_idx = -1
+    hobbies_idx = -1
+    
+    for i, line in enumerate(lines):
+        if 'Education' in line: education_idx = i
+        if 'Core Skills' in line: skills_idx = i
+        if 'Relevant Experience' in line: experience_idx = i
+        if 'Hobbies' in line or 'Personal Specializations' in line: hobbies_idx = i
+        
+    first_section_idx = min(idx for idx in [education_idx, skills_idx, experience_idx, hobbies_idx] if idx != -1)
+    info_lines = [line for line in lines[3:first_section_idx] if line.strip()]
+    if info_lines:
+        print(textwrap.fill(" ".join(info_lines), width=80))
+        print()
+        
+    # Helper to print bullet points
+    def print_bullets(start, end):
+        for i in range(start, end):
+            line = lines[i]
+            if line.startswith('-'):
+                wrapped = textwrap.fill(line[1:].strip(), width=76, initial_indent="  * ", subsequent_indent="    ")
+                print(wrapped)
+            elif line.strip():
+                print(textwrap.fill(line, width=80))
+                
+    # Core Skills
+    if skills_idx != -1:
+        print("CORE SKILLS")
+        print("-" * 11)
+        end_idx = min(idx for idx in [experience_idx, education_idx, hobbies_idx] if idx > skills_idx)
+        print_bullets(skills_idx + 1, end_idx)
+        print()
+        
+    # Relevant Experience
+    if experience_idx != -1:
+        print("RELEVANT EXPERIENCE")
+        print("-" * 19)
+        end_idx = min(idx for idx in [education_idx, hobbies_idx] if idx > experience_idx)
+        for i in range(experience_idx + 1, end_idx):
+            line = lines[i]
+            if '@' in line and 'from' in line:
+                print()
+                print(line)
+            elif line.startswith('-'):
+                wrapped = textwrap.fill(line[1:].strip(), width=76, initial_indent="  * ", subsequent_indent="    ")
+                print(wrapped)
+            elif line.strip():
+                print(textwrap.fill(line, width=80))
+        print()
+        
+    # Education
+    if education_idx != -1:
+        print("EDUCATION")
+        print("-" * 9)
+        print(lines[education_idx+1])
+        print(lines[education_idx+2])
+        print(lines[education_idx+3])
+        print()
+        
+    # Hobbies & Interests
+    if hobbies_idx != -1:
+        print("HOBBIES & INTERESTS")
+        print("-" * 19)
+        print_bullets(hobbies_idx + 1, len(lines))
+        print()
+        
+    sys.exit(0)
 
 pdf = ResumePDF()
 pdf.add_page()

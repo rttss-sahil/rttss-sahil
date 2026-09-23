@@ -1,60 +1,51 @@
 Sahil Rathee
-(+91) 9992396866 | sahil.artits.rathee@gmail.com | Linkedin | Github | Leetcode
+(+91) 9992396866 | sahil.artits.rathee@gmail.com
+LinkedIn: https://linkedin.com/in/rttss-sahil | GitHub: https://github.com/rttss-sahil | Portfolio: https://www.infortts.site/about
 
-Senior Software Engineer & Distributed Systems Architect with a background in Physics. Specialized in high-scale infrastructure (K8s/Terraform/Helm), AI Orchestration (Multi-agent RAG), and low-latency backends (Go). Proven track record of scaling proprietary systems to millions of users and 100k+ downloads. Tenacious problem-solver with a "White Hat" security mindset.
+
+Backend & Infrastructure Engineer (Go, Python, Kubernetes) — 5+ years building distributed systems, cloud infrastructure and real-time event pipelines. I architect and run production systems end-to-end: from zero-driven Terraform/Ansible IaC to container orchestration, CI/CD, and AI-agent orchestration. B.Sc. Computer Science with a physics-first systems mindset.
+
 Core Skills
-- Specialty: AI Orchestration, Multi-agent Management, Distributed Systems Architecture
-- Languages: Go (Primary), Python, Dart/Flutter, Kotlin, TypeScript, GraphQL
-- Infrastructure: Kubernetes, Terraform, Helm, Ansible, AWS, GCP, Docker, CI/CD
-- Systems: Microservices, Real-time Event Streaming, Serverless, ns-latency Optimization
-- Databases: PostgreSQL, Redis, MongoDB, Amazon Neptune, OpenSearch
-- Security (Night-Forte): White Hat Hacking, Kali Linux, Networking, Penetration Testing
+- Languages: Go (primary), Python, TypeScript, Kotlin, Dart/Flutter, GraphQL
+- Infrastructure: Kubernetes, Terraform, Helm, Ansible, Docker, AWS, GCP, CI/CD (Jenkins, GitHub Actions)
+- Systems: Microservices, Real-time Event Streaming (NATS, Kafka, RabbitMQ), Serverless, Low-latency API optimization
+- Databases: PostgreSQL, Redis, MongoDB, OpenSearch, Qdrant (vectors)
+- AI/Orchestration: Multi-agent RAG, Agentic Workflows, Vector Databases, LLM application backends
+- Platform Engineering: Zero-dependency deploy (ARM/single-node), Blue/Green rollouts, OTA update pipelines, Cloudflare Workers
 
-Relevant Experience
+Selected Experience
 
-Lead Systems Architect & Founder @ Infortts from Jan 2026 to Present
+Founder / Systems Architect @ Infortts (private, in production) — Jan 2026 to Present
+- Founded and run an ecosystem of 28 production applications (Android + web) on a single always-free ARM cloud node; designed the entire platform to run at $0 monthly infrastructure cost (storage, compute and networking budget-enforced).
+- Designed Chart-Forensics, a high-frequency trading intelligence engine in Go/Python on NATS JetStream + Qdrant vector search with a risk-gated order execution queue, MT5 bridge and account-sync pipelines.
+- Built Cardiodictyon (Meeseeks) — an autonomous multi-agent RAG + code-generation layer (Go, Python, FastAPI) deployed at meeseeks.infortts.site.
+- Authored the Jenkins → Hugging Face CDN pipeline that builds and ships OTA patches and APK releases for all 28 apps from a single pipeline.
 
-- Architected and built Cardiodictyon (Meeseeks), an autonomous multi-agent swarm orchestration and RAG-driven code generation layer using React (TS), Python, and Go.
-- Designed Chart-Forensics, a high-frequency trading intelligence engine utilizing Go, Python, NATS JetStream, and Qdrant vector databases for real-time signal analysis.
-- Engineered Care4u (HealthFlow), an event-driven serverless healthcare system with a Go backend and Flutter frontend, and Spark, a high-concurrency dating platform using a Go event monolith and Kafka.
-- Implemented C++ system-level components for audio synth composition driven by market signals (Ediacara) and Spotify recommendation models (Grypania).
+Lead Software Engineer (Contract) @ Orealfit — Jan 2026 to Present
+- Consolidated SuperOver, Halftime and a C++ (Drogon) SportsEngine into one monorepo ("Stadium") orchestrated with Docker Compose for local simulation.
+- Built Khata, a billing + GST system for Indian sellers on Next.js 14 + Drizzle, deployed serverless to Cloudflare Pages/Workers.
+- Managed Shadow Labs (Hono/Node + Next.js + Prisma + PostgreSQL e-commerce) and Roost (Go GraphQL + Flutter property management) infrastructure.
 
-Lead Software Engineer & Monorepo Architect @ Orealfit from Jan 2026 to Present
+Software Engineer @ GymWise India Private Limited — Mar 2024 to Dec 2025
+- Google Play (100K+ downloads): https://play.google.com/store/apps/details?id=com.gymwise.android
+- Led cloud infrastructure for a 100K+ download fitness ecosystem: Terraform, Helm and Ansible with zero-drift consistency; container orchestration and high-concurrency real-time APIs.
+- Drove the AI-orchestration initiative: multi-agent RAG systems powering automated coaching modules and workflow management.
+- Optimized Android/iOS CI/CD for 100K+ active nodes, raising deployment velocity and availability.
 
-- Consolidated SuperOver (cricket app), Halftime (football app), and SportsEngine (C++ Drogon backend) into a unified monorepo architecture (Stadium), orchestrating local simulations with Docker Compose.
-- Built Khata, a billing and GST management system for Indian sellers, deploying serverless APIs directly to Cloudflare Pages/Workers using Next.js 14 and Drizzle ORM.
-- Managed tech infrastructure for Shadow Labs (e-commerce store with Hono/Node backend, Next.js, Prisma, PostgreSQL) and Roost (property management app with Go GraphQL backend, Flutter client).
+Full Stack Engineer @ Bighit — Nov 2022 to Mar 2024
+- Google Play: https://play.google.com/store/apps/details?id=com.agamtech.bighit.fans
+- Redeveloped tech infrastructure for a social/sports platform: ~80% app-size reduction and ~60% server-efficiency gain via AWS IaC.
+- Built location tracking + dynamic chat modules; optimized Amazon Neptune/OpenSearch and real-time data sync for millions of events.
+- Cut API latency ~80% through load balancing and query optimization.
 
-Software Engineer @ GymWise India Private Limited from Mar 2024 to Dec 2025
-
-- Google Play Store: https://play.google.com/store/apps/details?id=com.gymwise.android&hl=en_IN
-- Architected and led the development of cloud infrastructure for a fitness ecosystem with 100k+ downloads, ensuring zero-drift consistency via Terraform, Helm, and Ansible.
-- Pioneered the transition to AI Orchestration, implementing multi-agent RAG systems to manage complex user workflows and automated coaching modules.
-- Spearheaded the design of container orchestration solutions (K8s), optimizing system performance for high-concurrency real-time events.
-- Directed the technical strategy for scalable microservices in Go, reducing latency for core business logic significantly.
-- Optimized the Android/iOS CI/CD pipelines, increasing deployment velocity and maintaining high availability across 100k+ active nodes.
-
-Full Stack Engineer @ Bighit from Nov 2022 to Mar 2024
-
-- Google Play Store: https://play.google.com/store/apps/details?id=com.agamtech.bighit.fans&hl=en_IN
-- Led the redevelopment of tech infrastructure for a major social/sports platform, achieving an 80% reduction in app size and 60% increase in server efficiency via AWS IaC.
-- Designed advanced location tracking and dynamic chat modules for high-engagement user bases.
-- Optimized AWS services including Amazon Neptune and OpenSearch clusters, managing real-time data synchronization for millions of events.
-- Managed and optimized high-traffic servers, reducing API latency by 80% through refined load balancing and database query optimization.
-
-Full Stack Developer @ Gamix Labs from Mar 2022 to Oct 2022
-
-- DinoMonks: https://gamixlabs.com/dinomonks.html
-- Casino Royal: https://gamixlabs.com/casino-royal.html
-- The Prodigy Rises: https://gamixlabs.com/the-prodigy-rises.html
-- Developed high-performance gaming servers in Node.js with event-streaming services for real-time multiplayer interactions.
-- Deployed PWA gaming websites and HTML5 games with clients like OneFC and Bombay Play.
-- Adopted TDD and advanced facial/voice recognition for secure authentication platforms.
+Full Stack Developer @ Gamix Labs — Mar 2022 to Oct 2022
+- Built gaming servers (Node.js) with event-streaming for real-time multiplayer; PWA + HTML5 games for OneFC and Bombay Play: https://gamixlabs.com/dinomonks.html
+- Introduced TDD and facial/voice recognition for secure authentication platforms.
 
 Education
-DDUC, University of Delhi
-Bachelor's Degree in Science (Major: Computer Science)
-2018 – 2021
+DDUC, University of Delhi — B.Sc., Computer Science — 2018–2021
 
-Hobbies
-- Trading, Investment Consulting, Astrophysics, Theoretical Physics, Football
+Links
+- Portfolio / case studies: https://www.infortts.site/about
+- Meeseeks (multi-agent AI platform): https://meeseeks.infortts.site
+- GitHub: https://github.com/rttss-sahil
