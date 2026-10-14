@@ -1,5 +1,5 @@
 Sahil Rathee
-(+91) 9992396866 | sahil.artits.rathee@gmail.com
+(+91) 9625213480 | sahil.artits.rathee@gmail.com
 LinkedIn: https://linkedin.com/in/rttss-sahil | GitHub: https://github.com/rttss-sahil | Portfolio: https://www.infortts.site/about
 
 
@@ -26,7 +26,7 @@ Lead Software Engineer (Contract) @ Orealfit — Jan 2026 to Present
 - Built Khata, a billing + GST system for Indian sellers on Next.js 14 + Drizzle, deployed serverless to Cloudflare Pages/Workers.
 - Managed Shadow Labs (Hono/Node + Next.js + Prisma + PostgreSQL e-commerce) and Roost (Go GraphQL + Flutter property management) infrastructure.
 
-Software Engineer @ GymWise India Private Limited — Mar 2024 to Dec 2025
+Solution Architect @ Gym Wise India Private Limited — Mar 2024 to Nov 2025
 - Google Play (100K+ downloads): https://play.google.com/store/apps/details?id=com.gymwise.android
 - Led cloud infrastructure for a 100K+ download fitness ecosystem: Terraform, Helm and Ansible with zero-drift consistency; container orchestration and high-concurrency real-time APIs.
 - Drove the AI-orchestration initiative: multi-agent RAG systems powering automated coaching modules and workflow management.

@@ -17,7 +17,7 @@ class ResumePDF(FPDF):
             self.cell(0, 15, 'Sahil Rathee', new_x=XPos.LMARGIN, new_y=YPos.NEXT, align='L')
             self.set_font('Helvetica', 'I', 10)
             self.set_text_color(127, 140, 141)
-            self.cell(0, 5, self.normalize_text('(+91) 9992396866 | sahil.artits.rathee@gmail.com'), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align='L')
+            self.cell(0, 5, self.normalize_text('(+91) 9625213480 | sahil.artits.rathee@gmail.com'), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align='L')
             self.cell(0, 5, 'Linkedin | Github | Leetcode', new_x=XPos.LMARGIN, new_y=YPos.NEXT, align='L')
             self.ln(10)
 
