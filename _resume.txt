@@ -1,51 +1,61 @@
 Sahil Rathee
-(+91) 9625213480 | sahil.artits.rathee@gmail.com
-LinkedIn: https://linkedin.com/in/rttss-sahil | GitHub: https://github.com/rttss-sahil | Portfolio: https://www.infortts.site/about
+(+91) 9625213480 • sahil.artits.rathee@gmail.com
+LinkedIn: https://linkedin.com/in/rttss-sahil • GitHub: https://github.com/rttss-sahil • Portfolio: https://artits.infortts.site
 
-
-Backend & Infrastructure Engineer (Go, Python, Kubernetes) — 5+ years building distributed systems, cloud infrastructure and real-time event pipelines. I architect and run production systems end-to-end: from zero-driven Terraform/Ansible IaC to container orchestration, CI/CD, and AI-agent orchestration. B.Sc. Computer Science with a physics-first systems mindset.
+Software Engineer with 4+ years of engineering experience across backend systems, distributed services, and agentic AI workflows. B.Sc. (Honours) in Computer Science, University of Delhi.
 
 Core Skills
-- Languages: Go (primary), Python, TypeScript, Kotlin, Dart/Flutter, GraphQL
-- Infrastructure: Kubernetes, Terraform, Helm, Ansible, Docker, AWS, GCP, CI/CD (Jenkins, GitHub Actions)
-- Systems: Microservices, Real-time Event Streaming (NATS, Kafka, RabbitMQ), Serverless, Low-latency API optimization
-- Databases: PostgreSQL, Redis, MongoDB, OpenSearch, Qdrant (vectors)
-- AI/Orchestration: Multi-agent RAG, Agentic Workflows, Vector Databases, LLM application backends
-- Platform Engineering: Zero-dependency deploy (ARM/single-node), Blue/Green rollouts, OTA update pipelines, Cloudflare Workers
+- Languages: Go (Golang), Python, TypeScript, JavaScript, SQL, C++, Dart, Bash
+- Backend & Systems: Node.js, Express.js, Angular, Next.js, FastAPI, WebSockets, Microservices, REST & GraphQL
+- Cloud & Infrastructure: Docker, Kubernetes, AWS, GCP, Terraform IaC, Ansible, CI/CD pipelines
+- Databases & Caching: PostgreSQL, MongoDB, Redis, Qdrant Vector DB, Amazon Neptune (Graph DB)
+- AI & Quantitative: Agentic Workflows (LangGraph, Function Calling, RAG), Event Streaming (NATS JetStream), MetaTrader 5
 
-Selected Experience
+Full-Time Work Experience
 
-Founder / Systems Architect @ Infortts (private, in production) — Jan 2026 to Present
-- Founded and run an ecosystem of 28 production applications (Android + web) on a single always-free ARM cloud node; designed the entire platform to run at $0 monthly infrastructure cost (storage, compute and networking budget-enforced).
-- Designed Chart-Forensics, a high-frequency trading intelligence engine in Go/Python on NATS JetStream + Qdrant vector search with a risk-gated order execution queue, MT5 bridge and account-sync pipelines.
-- Built Cardiodictyon (Meeseeks) — an autonomous multi-agent RAG + code-generation layer (Go, Python, FastAPI) deployed at meeseeks.infortts.site.
-- Authored the Jenkins → Hugging Face CDN pipeline that builds and ships OTA patches and APK releases for all 28 apps from a single pipeline.
+Software Engineer (Systems & Infrastructure) @ Gym Wise India Private Limited — Jul 2024 to Nov 2025
+- Full-time • On-site — Sector 14, Gurugram, India
+- LinkedIn: https://www.linkedin.com/company/gym-wise/
+- Re-architected backend microservices from PHP Laravel to Go (Golang) backed by Redis buffer and Qdrant Vector DB for member discovery and search.
+- Developed 3 cross-platform mobile apps in Flutter/Dart (Customer, Partner with biometric attendance, and Admin) plus a Next.js web portal, live on Google Play & App Store.
+- Built multi-cloud infrastructure: AWS compute and container orchestration managed via Terraform IaC and Ansible; GCP for Maps APIs and OAuth services.
+- Implemented gym marketplace booking workflows and dynamic pricing logic based on user engagement.
 
-Lead Software Engineer (Contract) @ Orealfit — Jan 2026 to Present
-- Consolidated SuperOver, Halftime and a C++ (Drogon) SportsEngine into one monorepo ("Stadium") orchestrated with Docker Compose for local simulation.
-- Built Khata, a billing + GST system for Indian sellers on Next.js 14 + Drizzle, deployed serverless to Cloudflare Pages/Workers.
-- Managed Shadow Labs (Hono/Node + Next.js + Prisma + PostgreSQL e-commerce) and Roost (Go GraphQL + Flutter property management) infrastructure.
-
-Solution Architect @ Gym Wise India Private Limited — Mar 2024 to Nov 2025
-- Google Play (100K+ downloads): https://play.google.com/store/apps/details?id=com.gymwise.android
-- Led cloud infrastructure for a 100K+ download fitness ecosystem: Terraform, Helm and Ansible with zero-drift consistency; container orchestration and high-concurrency real-time APIs.
-- Drove the AI-orchestration initiative: multi-agent RAG systems powering automated coaching modules and workflow management.
-- Optimized Android/iOS CI/CD for 100K+ active nodes, raising deployment velocity and availability.
-
-Full Stack Engineer @ Bighit — Nov 2022 to Mar 2024
-- Google Play: https://play.google.com/store/apps/details?id=com.agamtech.bighit.fans
-- Redeveloped tech infrastructure for a social/sports platform: ~80% app-size reduction and ~60% server-efficiency gain via AWS IaC.
-- Built location tracking + dynamic chat modules; optimized Amazon Neptune/OpenSearch and real-time data sync for millions of events.
-- Cut API latency ~80% through load balancing and query optimization.
+Full Stack Engineer @ BigHit — Nov 2022 to Mar 2024
+- Full-time • On-site — Andheri West, Mumbai, India
+- LinkedIn: https://www.linkedin.com/company/bighitsports/
+- Built real-time Socket.io Node.js server powering dynamic chat for 2,000 Concurrent Active Users (~400 events/sec peak throughput).
+- Engineered live score updates and match telemetry for live-streamed football matches, featuring an abstracted third-umpire web console with role-based access control.
+- Migrated legacy relational SQL database to Amazon Neptune graph DB (Gremlin), optimizing athlete-to-scout social graph traversal queries.
+- Optimized mobile app bundle size (~80% reduction) and cloud services on AWS (OpenSearch and Neptune), cutting API latency under peak tournament load.
 
 Full Stack Developer @ Gamix Labs — Mar 2022 to Oct 2022
-- Built gaming servers (Node.js) with event-streaming for real-time multiplayer; PWA + HTML5 games for OneFC and Bombay Play: https://gamixlabs.com/dinomonks.html
-- Introduced TDD and facial/voice recognition for secure authentication platforms.
+- Full-time • On-site — Noida, India
+- LinkedIn: https://www.linkedin.com/company/gamixlabs/
+- Engineered real-time game simulation backends in Node.js with RabbitMQ event messaging and Redis caching.
+- Implemented and verified Return-to-Player (RTP) algorithms and win-frequency probability distributions using Monte Carlo simulations.
+- Architected multi-database persistence layers across MongoDB, relational SQL, and Firebase Realtime/Firestore databases for client titles.
+
+Freelance & Client Projects
+
+Full Stack Software Engineer @ NaiBooking — Aug 2026 to Present
+- Freelance / Contract • Remote — Bangalore, India
+- Architected full-stack salon and barber SaaS marketplace: web portal and admin console in React / Next.js, client and business mobile apps in React Native (Expo) live on app stores.
+- Engineered Node.js backend using MongoDB and PostgreSQL with transaction ledgers, advisory locking, and multi-tier Redis caching for booking spikes.
+- Configured AWS cloud infrastructure via Terraform IaC and integrated automated subscription billing via Razorpay.
+
+Full Stack Engineer @ GrowthHikes — 2026
+- Freelance / Contract • Remote
+- Engineered modern web platform and interactive client calculators using Next.js/React deployed to Cloudflare Workers.
+- Automated agentic content workflows, analytics ingestion, and scheduled marketing operations pipelines.
+
+Personal & Open-Source Projects
+
+Meeseeks (Autonomous Multi-Agent AI Platform) — https://meeseeks.infortts.site
+- Built an autonomous multi-agent orchestration framework in Python and Go supporting tool-calling supervisor loops, vector-backed shared memory, and self-healing diagnostic routines.
+
+Mitochondria & Zenith (Quantitative Telemetry & Execution Engine)
+- Engineered tick-level market data streaming and simulation backtesting pipelines in Go and Python with NATS JetStream and MetaTrader 5 order execution bridge.
 
 Education
-DDUC, University of Delhi — B.Sc., Computer Science — 2018–2021
-
-Links
-- Portfolio / case studies: https://www.infortts.site/about
-- Meeseeks (multi-agent AI platform): https://meeseeks.infortts.site
-- GitHub: https://github.com/rttss-sahil
+DDUC, University of Delhi — Bachelor of Science (B.Sc. Honours) in Computer Science — 2018 to 2021
