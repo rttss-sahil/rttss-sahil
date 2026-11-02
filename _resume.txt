@@ -5,11 +5,11 @@ LinkedIn: https://linkedin.com/in/rttss-sahil • GitHub: https://github.com/rtt
 Software Engineer with 4+ years of engineering experience across backend systems, distributed services, and agentic AI workflows. B.Sc. (Honours) in Computer Science, University of Delhi.
 
 Core Skills
-- Languages: Go (Golang), Python, TypeScript, JavaScript, SQL, C++, Dart, Bash
+- Languages: Python (4+ yrs), TypeScript (4+ yrs), Go (Golang), JavaScript, SQL, C++, Dart, Bash
 - Backend & Systems: Node.js, Express.js, Angular, Next.js, FastAPI, WebSockets, Microservices, REST & GraphQL
-- Cloud & Infrastructure: Docker, Kubernetes, AWS, GCP, Terraform IaC, Ansible, CI/CD pipelines
-- Databases & Caching: PostgreSQL, MongoDB, Redis, Qdrant Vector DB, Amazon Neptune (Graph DB)
-- AI & Quantitative: Agentic Workflows (LangGraph, Function Calling, RAG), Event Streaming (NATS JetStream), MetaTrader 5
+- Cloud & Serverless: AWS (Lambda, API Gateway, Step Functions, DynamoDB, S3, Neptune, OpenSearch, EC2), Docker, Kubernetes, GCP, Terraform IaC, Ansible, CI/CD pipelines
+- Databases & Storage: Amazon DynamoDB, Amazon S3, PostgreSQL, MongoDB, Redis, Qdrant Vector DB, Amazon Neptune (Graph DB)
+- AI & Generative AI: Generative AI, Agentic Workflows (LangGraph, Function Calling, Multi-Agent RAG), Event Streaming (NATS JetStream), MetaTrader 5
 
 Full-Time Work Experience
 
@@ -18,15 +18,15 @@ Software Engineer (Systems & Infrastructure) @ Gym Wise India Private Limited �
 - LinkedIn: https://www.linkedin.com/company/gym-wise/
 - Re-architected backend microservices from PHP Laravel to Go (Golang) backed by Redis buffer and Qdrant Vector DB for member discovery and search.
 - Developed 3 cross-platform mobile apps in Flutter/Dart (Customer, Partner with biometric attendance, and Admin) plus a Next.js web portal, live on Google Play & App Store.
-- Built multi-cloud infrastructure: AWS compute and container orchestration managed via Terraform IaC and Ansible; GCP for Maps APIs and OAuth services.
+- Built AWS infrastructure: compute (EC2), asset storage pipelines (S3), and API Gateway integrations managed via Terraform IaC and Ansible; GCP for Maps APIs and OAuth services.
 - Implemented gym marketplace booking workflows and dynamic pricing logic based on user engagement.
 
 Full Stack Engineer @ BigHit — Nov 2022 to Mar 2024
 - Full-time • On-site — Andheri West, Mumbai, India
 - LinkedIn: https://www.linkedin.com/company/bighitsports/
 - Built real-time Socket.io Node.js server powering dynamic chat for 2,000 Concurrent Active Users (~400 events/sec peak throughput).
-- Engineered live score updates and match telemetry for live-streamed football matches, featuring an abstracted third-umpire web console with role-based access control.
-- Migrated legacy relational SQL database to Amazon Neptune graph DB (Gremlin), optimizing athlete-to-scout social graph traversal queries.
+- Engineered live score updates and match telemetry for live-streamed football matches using AWS Lambda, Amazon API Gateway, and AWS Step Functions, featuring an abstracted third-umpire web console with role-based access control.
+- Migrated legacy relational SQL database to Amazon Neptune graph DB (Gremlin) and Amazon DynamoDB for high-throughput match ingestion, with media asset pipelines on Amazon S3.
 - Optimized mobile app bundle size (~80% reduction) and cloud services on AWS (OpenSearch and Neptune), cutting API latency under peak tournament load.
 
 Full Stack Developer @ Gamix Labs — Mar 2022 to Oct 2022
@@ -52,7 +52,7 @@ Full Stack Engineer @ GrowthHikes — 2026
 Personal & Open-Source Projects
 
 Meeseeks (Autonomous Multi-Agent AI Platform) — https://meeseeks.infortts.site
-- Built an autonomous multi-agent orchestration framework in Python and Go supporting tool-calling supervisor loops, vector-backed shared memory, and self-healing diagnostic routines.
+- Built an autonomous multi-agent Generative AI orchestration framework in Python and Go supporting tool-calling supervisor loops, vector-backed shared memory, and multi-agent RAG.
 
 Mitochondria & Zenith (Quantitative Telemetry & Execution Engine)
 - Engineered tick-level market data streaming and simulation backtesting pipelines in Go and Python with NATS JetStream and MetaTrader 5 order execution bridge.
